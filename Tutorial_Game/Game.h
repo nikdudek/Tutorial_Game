@@ -6,6 +6,8 @@
 class Game
 {
 private:
+
+protected:
 	//Variables
 	sf::RenderWindow *window;
 	sf::Event sfEvent;
